@@ -4,7 +4,7 @@
 
 可以得到一個網址
 
-    https://cdn.jsdelivr.net/gh/shofanx/jshost/stick-min.js
+    https://raw.githubusercontent.com/shofanx/jshost/master/stick-min.js
 
 之後把網址中的raw.githubusercontent.com替換成cdn.jsdelivr.net/gh，並將master拿掉，結果如下
 
